@@ -9,5 +9,7 @@
         <input type="submit">
     </form>
     <a href="student/showForm">student registration</a>
+    <a href="customer/customerForm">Customer registration</a>
+
 </body>
 </html>
